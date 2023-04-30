@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "385d7c098d45a646",
+    "type": "split",
+    "children": [
+      {
+        "id": "8db06552d7fd76c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "775ecbcbf801ed14",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "48ae50435624120c",
+    "type": "split",
+    "children": [
+      {
+        "id": "33fa52278154aa38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f5df602961c8a68",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "35a465df1f20e3aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "git config credential.helper",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9adf8b3eb2276c10",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b1291615f48184ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a25eb9340253ebf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28334fa94a05dc90",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e00b792f4f61f78",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "208fa0a76c35544d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9202e24f437c58de",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "35a465df1f20e3aa",
+  "lastOpenFiles": [
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "306 Оцифровка программы страхования.md",
+    "Untitled 3.md",
+    "Обновление или создание программы страхования.md",
+    "Получение запроса/жалобы.md",
+    "Отчеты.md",
+    "Получение и загрузка п/п по выплате ЗП сотрудникам.md",
+    "058 Контроль за соблюдением рекомендаций отдела внутреннего аудита.md",
+    "Расчет целевых метрик инвестирования/ реинвестирования.md",
+    "ё/ реинвестирования.md",
+    "ё",
+    "Расчет целевых метрик инвестирования и реинвестирования.md",
+    "202 Бюджетный процесс и контроль бюджета.md",
+    "Финализация бюджета/капитала на стороне Финансов.md",
+    "057 Проведение внутреннего аудита.md",
+    "Подготовка к проведению аудита.md",
+    "Проведение аудита.md",
+    "Оформление результатов внутреннего аудита.md",
+    "Заключение по результатам мониторинга.md",
+    "Оценка достаточности и достоверности предоставленной информации.md",
+    "Принятие решения о выполнении рекомендаций.md",
+    "Отчет о выполнении рекомендаций.md",
+    "Получение отчетов от подразделений.md",
+    "Ответственный за выполнение рекомендаций.md",
+    "059 Оценка рисков и планирование ежегодного аудита.md",
+    "Согласование плана руководством.md",
+    "Расчет целевых метрик инвестирования",
+    "Финализация бюджета",
+    "Получение и загрузка п",
+    "Получение запроса",
+    "Untitled.canvas"
+  ]
+}
